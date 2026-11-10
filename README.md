@@ -1,31 +1,56 @@
 ### Lee Hyun Soung 👋
 
-<hr>
-<h3 align="center">📚 Tech Stack</h3>
-<div align="center">
-  <p align="center">Language & Framework</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+<p>
+  <a href="https://happiestlife.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp;
+  <a href="mailto:chickenman10@naver.com"><img src="https://img.shields.io/badge/chickenman10@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+</p>
 
+<hr>
+<h3>📚 Tech Stack</h3>
+<div>
+  <p>Backend</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square"/>&nbsp;
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>&nbsp;
+  </p>
+  <p>Database</p>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>&nbsp;
+  </p>
+  <p>Cloud & Infra</p>
+  <p>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>&nbsp;
+  </p>
+  <p>Frontend</p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>&nbsp;
   </p>
   <p>Development Tool</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Notions-000000?style=flat-square&logo=Notions&logoColor=white"/></a>&nbsp
+  <p>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square"/>&nbsp;
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
   </p>
-</p>
+</div>
 <hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chickenman10)](https://solved.ac/chickenman10/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happiestlife&show_icons=true&theme=radical)
+
+<h3>📊 GitHub Status</h3>
+<p>
+  <img src="./profile/stats.svg" height="165"/>&nbsp;
+  <img src="./profile/top-langs.svg" height="165"/>
+</p>
